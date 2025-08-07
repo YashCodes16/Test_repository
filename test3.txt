@@ -1,2 +1,3 @@
 new changes
 
+Testing new things to properly understand git
